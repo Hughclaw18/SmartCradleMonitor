@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+
+assets/
+# Data
+data/
+mobileclip2_b.ts

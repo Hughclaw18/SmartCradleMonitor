@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+Pillow
+ultralytics
+supervision
+websocket-client
+requests
+torchcodec
